@@ -19,6 +19,7 @@ npm install
 ```
 npm run generate
 ```
+</br>
 
 3. Run the app and send messages to your chatbot. It will use context from the embeddings to answer questions.
 
